@@ -1,0 +1,14 @@
+{
+  "name": "modern_company",
+  "version": "1.0.0",
+  "description": "Responsive company website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Suyunov",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
